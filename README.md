@@ -1,6 +1,8 @@
 # VictorAndroid+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-VictorAndroid+ aids in security assesment of Android apps. It parses and scans Android manifests looking for weaknesses and then outputs a user-friendly report.
+VictorAndroid+ aids in security assesment of Android apps. It parses and scans Android manifests looking for weaknesses and then outputs a user-friendly report. Current version is v0.1 "Rally" (https://www.sakwiki.com/tiki-index.php?page=Rally&highlight=rally).
+
+![](victorandroid.png)
 
 ## Author
 
@@ -10,7 +12,9 @@ https://tereresecurity.wordpress.com/
 
 ## Usage
 
-TODO
+```bash
+python3 tool_victorandroid.py -m|--manifest /path/to/AndroidManifest.xml
+```
 
 ## License
 
