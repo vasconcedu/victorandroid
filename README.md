@@ -8,7 +8,7 @@ VictorAndroid+ aids in security assessment of Android apps. It parses and scans 
 
 Eduardo Vasconcelos (vasconcedu)
 
-https://tereresecurity.wordpress.com/
+https://vasconcedu.github.io/
 
 ## Usage
 
